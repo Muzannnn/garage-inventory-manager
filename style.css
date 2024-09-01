@@ -1,0 +1,4 @@
+.list-item::before {
+    content: '–'; /* Utilise un tiret long (en dash) */
+    margin-right: 0.5rem; /* Espacement entre le tiret et le texte */
+}
